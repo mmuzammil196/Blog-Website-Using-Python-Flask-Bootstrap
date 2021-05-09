@@ -1,0 +1,21 @@
+{
+    "params":
+        {
+            "local_server":"True",
+            "local_uri": "mysql://root:@localhost/coding thunder",
+            "prod_uri": "mysql://root:@localhost/coding thunder",
+            "tw_uri": "https://twitter.com/coding thunder" ,
+            "fb_uri": "https://facebook.com/coding thunder",
+            "gh_uri": "https://github.com/coding thunder",
+            "blog_name": "PassionateCoder",
+            "tag_line": "A blog liked by the programmers",
+            "gmail_user": "yourgmail@gmail.com",
+            "gmail_password": "yourpassword",
+            "about_text": "HI This Blog Website is About Emerging Technologies",
+            "no_of_posts": 3,
+            "login_image": "login.svg",
+            "admin_user":"harry123",
+            "admin_password": "subscribe",
+            "uploader_location": "C:\\Users\\Chacha Tech\\PycharmProjects\\Flask_Course\\static\\imageserver"
+        }
+}
